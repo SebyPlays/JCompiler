@@ -1,2 +1,3 @@
 # JCompiler
 Working on Documentation...
+CURRENTLY DYSFUNCTIONAL
